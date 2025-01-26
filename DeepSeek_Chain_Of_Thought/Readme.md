@@ -52,7 +52,7 @@ Using this as an upstream cloud model has the advantage of:
 
 1. being affordable
 2. access to a large knowledge corpus
-3. 3. Today (26.01.2025) many people use it
+3. Today (26.01.2025) many people use it
 
 ### o1
 
