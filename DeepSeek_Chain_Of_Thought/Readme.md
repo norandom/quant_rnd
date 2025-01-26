@@ -1,4 +1,4 @@
-# Chain of Thought for Claude 
+# Chain of Thought for Claude et. al.
 
 
 > Claude's got the flow, it's a chain of thought,
@@ -23,7 +23,7 @@ Here is how to get it for free.
 ### DeepSeek exports Chain of Thought
 
 * DeepSeek is the new kid on the block.
-* It tackles the hallucination problem by exporting is "chain of thought".
+* It tackles the hallucination problem by exporting it as "chain of thought".
 
 
 ### DeepSeek
