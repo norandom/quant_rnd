@@ -2,8 +2,11 @@
 
 
 > Claude's got the flow, it's a chain of thought,
+
 > Connecting ideas like a mastermind plot,
+
 > Logic so sharp, can’t be sold or bought
+
 > This been written by some random bot
 
 ## What the hell dis is?
